@@ -1,3 +1,4 @@
+//Arduino
 int whisker1 = 7;
 int whisker2 = 5;
 int piezo = 13;
